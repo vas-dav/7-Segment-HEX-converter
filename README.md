@@ -40,6 +40,13 @@ I had two choices on how to make it:
 
 OR
 
-> In the common anode display, all the anode connections of the LED segments are joined together to logic “1”. The individual segments are
+> In the **common anode** display, all the anode connections of the LED segments are joined together to logic “1”. The individual segments are
 > illuminated by applying a ground, logic “0” or “LOW” signal to the Cathode of the particular segment (a-g).
 
+This explanation is taken from [this Website](https://lastminuteengineers.com/seven-segment-arduino-tutorial/)
+
+So I planned to use the **common anode** way, because the truth table has less zero's than one's.
+
+#### Equation for (a):
+
+> F = !a!b!cd+!acdb+a!bcd+ab!cd
