@@ -37,7 +37,7 @@ Firstly I had to make an equation for every output and simplify it, so I can bui
 
 I had two choices on how to make it:
 
-> In the common **cathode display**, all the cathode connections of the LED segments are connected together to ‘logic 0’ / GND. The individual > segments are then illuminated by applying HIGH / ’logic 1’ signal to the individual Anode terminals (a-g).
+> In the **common cathode** display, all the cathode connections of the LED segments are connected together to ‘logic 0’ / GND. The individual > segments are then illuminated by applying HIGH / ’logic 1’ signal to the individual Anode terminals (a-g).
 
 OR
 
