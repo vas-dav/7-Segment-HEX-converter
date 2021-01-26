@@ -1,4 +1,4 @@
-#### 7 - segment 4-bit to HEX converter
+# 7 - segment 4-bit to HEX converter
 
 ### By Vasily Davydov
 > Idea was inspired by [Ben Eater](https://github.com/beneater) 
