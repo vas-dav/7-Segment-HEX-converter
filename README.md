@@ -34,13 +34,11 @@
 
 Firstly I had to make an equation for every output and simplify it, so I can build a logical circuit out of it. 
 
-#### An equation for (a):
+I had two choices on how to make it:
 
-> **F(a)= !a!b!c!d+!a!bc!d+!ab!cd+!abc!d+!abcd+a!b!c!d+a!b!cd+a!bc!d+ab!c!d+abc!d+abc!d+abcd**
+<In the common **cathode display**, all the cathode connections of the LED segments are connected together to ‘logic 0’ / GND. The individual <segments are then illuminated by applying HIGH / ’logic 1’ signal to the individual Anode terminals (a-g).
 
-**Simplified:**
+OR
 
-> **F(a)= a!b!c+!abd+!b!d+!ac+a!d+bc**
-
-
+<In the common anode display, all the anode connections of the LED segments are joined together to logic “1”. The individual segments are <illuminated by applying a ground, logic “0” or “LOW” signal to the Cathode of the particular segment (a-g).
 
