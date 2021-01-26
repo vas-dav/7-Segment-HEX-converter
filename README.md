@@ -1,17 +1,15 @@
-#### 7 - segment 4-bit to HEX converter
+# 7 - segment 4-bit to HEX converter
 
 ### By Vasily Davydov
-< Idea was inspired by [Ben Eater](https://github.com/beneater) 
+> Idea was inspired by [Ben Eater](https://github.com/beneater) 
 
 #### The main idea of this project is to have 4 inputs which you can operate to display input-related numbers in HEX on a 7-segment display
 
 > Down below you can see a *truthtable* I made for this project and an image of a 7-segment display with a letter on every diode:
 
-![Segment](7segment.png)
 
-|---------|---------|---------|---------|---|---|---|---|---|---|---|---|-----|-----|
 | Input 1 | Input 2 | Input 3 | Input 4 |   | a | b | c | d | e | f | g | num | HEX |
-|         |         |         |         |   |   |   |   |   |   |   |   |     |     |
+|---------|---------|---------|---------|---|---|---|---|---|---|---|---|-----|-----|
 | 0       | 0       | 0       | 0       |   | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0   | 0   |
 | 0       | 0       | 0       | 1       |   | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 1   | 1   |
 | 0       | 0       | 1       | 0       |   | 1 | 1 | 0 | 1 | 1 | 0 | 1 | 2   | 2   |
@@ -30,5 +28,5 @@
 | 1       | 1       | 1       | 1       |   | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 15  | F   |
 
 
-
+![Segment](7segment.png)
 
