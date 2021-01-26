@@ -49,4 +49,4 @@ So I planned to use the **common anode** way, because the truth table has less z
 
 #### Equation for (a):
 
-> F = !a!b!cd+!acdb+a!bcd+ab!cd
+> F = !a!b!cd+!ab!c!d+a!bcd+ab!cd
