@@ -28,5 +28,5 @@
 | 1       | 1       | 1       | 1       |   | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 15  | F   |
 
 
-![Segment](7segment.png)
+![Segment](7-segment.png)
 
