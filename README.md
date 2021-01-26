@@ -47,6 +47,9 @@ This explanation is taken from [this Website](https://lastminuteengineers.com/se
 
 So I planned to use the **common anode** way, because the truth table has less zero's than one's.
 
-#### Equation for (a):
+- All the following Logic circuits can be found [here](LogicCircuits)
+
+#### Equation for (a) and the following circuit:
 
 > F = !a!b!cd+!ab!c!d+a!bcd+ab!cd
+![aLogic](LogicCircuits/LogicPictures/aLogic.png)
