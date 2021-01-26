@@ -1,6 +1,6 @@
 # 7 - segment 4-bit to HEX converter
 
-### By Vasily Davydov
+### By Vasily Davydov (IN PROGRES)
 > Idea was inspired by [Ben Eater](https://github.com/beneater) 
 
 #### The main idea of this project is to have 4 inputs which you can operate to display input-related numbers in HEX on a 7-segment display
