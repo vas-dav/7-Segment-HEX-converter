@@ -38,7 +38,7 @@ Firstly I had to make an equation for every output and simplify it, so I can bui
 
 > **F(a)**= !a!b!c!d+!a!bc!d+!ab!cd+!abc!d+!abcd+a!b!c!d+a!b!cd+a!bc!d+ab!c!d+abc!d+abc!d+abcd
 
-**Simplified: 
+**Simplified:**
 
 > **F(a)**= a!b!c+!abd+!b!d+!ac+a!d+bc
 
