@@ -4,7 +4,7 @@
 > Idea was inspired by [Ben Eater](https://github.com/beneater) 
 
 #### The main idea of this project is to have 4 inputs which you can operate to display input-related numbers in HEX on a 7-segment display
-
+***
 > Down below you can see a *truthtable* I made for this project and an image of a 7-segment display with a letter on every diode:
 
 
@@ -29,4 +29,17 @@
 
 
 ![Segment](7-segment.png)
+***
+### Forming a Boolean equation for making a logic circuit:
+
+Firstly I had to make an equation for every output and simplify it, so I can build a logical circuit out of it. 
+
+An equation for **a**:
+$$
+F_a=\ !a!b!c!d+!a!bc!d+!ab!cd+!abc!d+!abcd+a!b!c!d+a!b!cd+a!bc!d+ab!c!d+abc!d+abc!d+abcd
+$$
+> Simplified: 
+> $$ F_a=\ a!b!c+!abd+!b!d+!ac+a!d+bc $$
+
+
 
