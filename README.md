@@ -8,9 +8,6 @@
 > Down below you can see a *truthtable* I made for this project and an image of a 7-segment display with a letter on every diode:
 
 
-
-
-|---------|---------|---------|---------|---|---|---|---|---|---|---|---|-----|-----|
 | Input 1 | Input 2 | Input 3 | Input 4 |   | a | b | c | d | e | f | g | num | HEX |
 |---------|---------|---------|---------|---|---|---|---|---|---|---|---|-----|-----|
 | 0       | 0       | 0       | 0       |   | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0   | 0   |
