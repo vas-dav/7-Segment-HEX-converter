@@ -35,15 +35,11 @@
 Firstly I had to make an equation for every output and simplify it, so I can build a logical circuit out of it. 
 
 An equation for **a**:
-$
-F_a= !a!b!c!d+!a!bc!d+!ab!cd+!abc!d+!abcd+a!b!c!d+a!b!cd+a!bc!d+ab!c!d+abc!d+abc!d+abcd
-$
+$F_a= !a!b!c!d+!a!bc!d+!ab!cd+!abc!d+!abcd+a!b!c!d+a!b!cd+a!bc!d+ab!c!d+abc!d+abc!d+abcd$
 
 Simplified: 
 
- $$ 
- F_a= a!b!c+!abd+!b!d+!ac+a!d+bc
- $$
+ $$F_a= a!b!c+!abd+!b!d+!ac+a!d+bc$$
 
 
 
