@@ -49,6 +49,7 @@ So I planned to use the **common anode** way, because the truth table has less z
 > **IN THIS CASE NOT CHANGING THE TRUTH TABLE MEANS THAT ON THE LOGIC CIRCUIT THE INPUT PATTERN WILL GIVE THE OPPOSITE OUTPUT (F.E. 0001 WILL GIVE 1)
 
 - All the following Logic circuits can be found [here](LogicCircuits)
+- a = Input 1, b = Input 2, c = Input 3, d = Input 4
 
 ### Equation for (a) and the following circuit:
 
