@@ -52,6 +52,6 @@ So I planned to use the **common anode** way, because the truth table has less z
 
 ### Equation for (a) and the following circuit:
 
-> ####**F = !a!b!cd+!ab!c!d+a!bcd+ab!cd**
+#### F = !a!b!cd+!ab!c!d+a!bcd+ab!cd
 
 ![aLogic](LogicCircuits/Pictures/aLogic.png)
